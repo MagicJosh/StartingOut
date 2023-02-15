@@ -1,2 +1,0 @@
-# StartingOut
-Starting out coding. 
